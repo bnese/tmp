@@ -14,5 +14,7 @@
     <ignoreVersion type="regex">.*-M.*</ignoreVersion>
     <ignoreVersion type="regex">.*\.M\\d+</ignoreVersion>
          <ignoreVersion type="regex">.*\.jre11-.*</ignoreVersion>
+         <ignoreVersion type="regex">.*\.jre\\d+</ignoreVersion>
+         <ignoreVersion type="regex">.*\.jbossorg-\\d+</ignoreVersion>
          </ignoreVersions>
 </ruleset>
