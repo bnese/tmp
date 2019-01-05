@@ -12,6 +12,7 @@
     <ignoreVersion type="regex">.*-preview.*</ignoreVersion>
     <ignoreVersion type="regex">.*-b.*</ignoreVersion>
     <ignoreVersion type="regex">.*-M.*</ignoreVersion>
-    <ignoreVersion type="regex">.*\.jre11-.*</ignoreVersion>
+    <ignoreVersion type="regex">.*\.M\\d+</ignoreVersion>
+         <ignoreVersion type="regex">.*\.jre11-.*</ignoreVersion>
          </ignoreVersions>
 </ruleset>
